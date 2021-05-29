@@ -73,5 +73,6 @@ table td {
 
 .CC {
     background-color: #ffc42e;
+    border: 5px solid blue;
     text-align: center;
 }
