@@ -72,7 +72,10 @@ table td {
 }
 
 .CC {
+    text-align: center;
+}
+
+th {
     background-color: #ffc42e;
     border: 5px solid blue;
-    text-align: center;
 }
