@@ -26,10 +26,6 @@ footer a{
     text-decoration: none;
 }
 
-tr {
-    border-collapse: collapse;
-}
-
 nav a {
     text-decoration: none;
     font-size: 20px;
@@ -70,6 +66,6 @@ header {
     width: 40px;
 }
 
-tr {
-    border-collapse: collapse;
+td {
+    border:5px solid blue;
 }
