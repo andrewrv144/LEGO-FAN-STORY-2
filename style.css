@@ -69,3 +69,7 @@ header {
 .g {
     width: 40px;
 }
+
+td {
+    border-collapse: collapse;
+}
